@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @GVN2307
+- 👋 Hi, I’m Veeranarayana
 - 👀 I’m interested in Coding and hacking
 - 🌱 I’m currently learning kali linux
 - 💞️ I’m looking to collaborate on ...
